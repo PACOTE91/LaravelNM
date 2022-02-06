@@ -1,3 +1,22 @@
+
+
+
+## Funcionamiento
+
+
+<p><a href="https://www.youtube.com/watch?v=22eg-vC4GgE" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-youtube-social-media-justicon-flat-justicon.png"/></a></p>
+
+[Enlace a video funcionando](https://www.youtube.com/watch?v=22eg-vC4GgE)
+
+## Documento creacción
+
+
+<p><a href="https://docs.google.com/document/d/1w6N0nK3roKMewZcndwPWayCXXpiF3j9T/edit?usp=sharing&ouid=115637629360385537101&rtpof=true&sd=true" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-document-office-stationery-justicon-lineal-color-justicon.png"/></a></p>
+
+[Enlace a la guía de creacció](https://docs.google.com/document/d/1w6N0nK3roKMewZcndwPWayCXXpiF3j9T/edit?usp=sharing&ouid=115637629360385537101&rtpof=true&sd=true)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -6,13 +25,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## Funcionamiento
-
-
-<p align="center"><a href="https://www.youtube.com/watch?v=22eg-vC4GgE" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-youtube-social-media-justicon-flat-justicon.png"/></a></p>
-
-Enlace a video funcionando [documentation](https://www.youtube.com/watch?v=22eg-vC4GgE)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
